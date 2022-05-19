@@ -21,6 +21,5 @@ public class Lesson4 {
 Создание объекта в файле Test4.
 
   */
-
     }
 }
