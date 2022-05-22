@@ -4,6 +4,7 @@ public class BankAccount {
 // эти переменные будут относиться к каждому созданному объекту внутри класса
     int id;
     String name;
+    // можно записать как String name = new String ("значение");
     double balance;
 
     public static void main(String[] args) {
