@@ -1,17 +1,23 @@
 package Lesson4;
 
 public class Car {
-    String color = "red";
-    String engine = "v6";
+
+    void Car (String cvet, String motor) {
+    color = cvet;
+    engine = motor;
+        System.out.println("Cvet mashin:" + color);
+        System.out.println("Motor mashin:" + engine);
+    }
+    String color;
+    String engine;
 }
 
 class CarTest {
     public static void main(String[] args) {
-        int a;
         Car car1 = new Car();
-        car1.color = "black";
-        car1.engine = "v8";
-        System.out.println(car1.color);
-        System.out.println(car1.engine);
+
+
+        Car car2 = new Car();
+
     }
 }

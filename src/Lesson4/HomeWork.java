@@ -15,6 +15,7 @@ class Student {
         double middleMarkMath;
         double middleMarkEconomic;
         double middleMarkLanguage;
+        double middleMark;
 }
 
 class StudentTest {
