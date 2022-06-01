@@ -31,6 +31,7 @@ class StudentTest {
         Student1.middleMarkMath = 4.75;
         Student1.middleMarkEconomic = 3.90;
         Student1.middleMarkLanguage = 5.00;
+        Student1.middleMark = (Student1.middleMarkEconomic + Student1.middleMarkLanguage + Student1.middleMarkMath) / 3;
 
         Student2.nomerBileta = 150;
         Student2.name = "Sasha";
@@ -39,6 +40,7 @@ class StudentTest {
         Student2.middleMarkMath = 5.00;
         Student2.middleMarkEconomic = 4.90;
         Student2.middleMarkLanguage = 3.00;
+        Student2.middleMark = (Student2.middleMarkEconomic + Student2.middleMarkLanguage + Student2.middleMarkMath) / 3;
 
         Student3.nomerBileta = 697;
         Student3.name = "Olga";
@@ -47,9 +49,10 @@ class StudentTest {
         Student3.middleMarkMath = 4.00;
         Student3.middleMarkEconomic = 3.75;
         Student3.middleMarkLanguage = 5.00;
+        Student3.middleMark = (Student3.middleMarkEconomic + Student3.middleMarkLanguage + Student3.middleMarkMath) / 3;
 
-        System.out.println("Middle mark of Student1: ");
-        System.out.println("Middle mark of Student2: ");
-        System.out.println("Middle mark of Student3: ");
+        System.out.println("Middle mark of Student1: " + Student1.middleMark);
+        System.out.println("Middle mark of Student2: " + Student2.middleMark);
+        System.out.println("Middle mark of Student3: " + Student3.middleMark);
     }
 }
