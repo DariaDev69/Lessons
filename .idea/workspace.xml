@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51de3b14-a375-4189-b0c7-66f051d42e7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson4/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson4/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson4/Lesson4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson4/Lesson4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4/Lesson4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/Lesson4.java" afterDir="false" />
-    </list>
+    <list default="true" id="51de3b14-a375-4189-b0c7-66f051d42e7b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ages/src/Ages.java" />
   </component>
   <component name="RunManager" selected="Application.StudentTest">
     <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
