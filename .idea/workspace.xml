@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de3b14-a375-4189-b0c7-66f051d42e7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/Lesson5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/MethodOverloading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson4/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson4/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson4/Lesson4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson4/Lesson4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/HomeWork.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +37,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.BankAccountTest">
+  <component name="RunManager" selected="Application.ggg">
+    <configuration name="ппп" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.ппп" />
+      <module name="Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BankAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson5.BankAccountTest" />
       <module name="Lessons" />
@@ -56,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.CarTest" />
+    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.Calc" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.*" />
+          <option name="PATTERN" value="Lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.StudentTest" />
+    <configuration name="ggg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.ggg" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.*" />
+          <option name="PATTERN" value="Lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,10 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ggg" />
+        <item itemvalue="Application.ппп" />
+        <item itemvalue="Application.Calc" />
         <item itemvalue="Application.BankAccountTest" />
         <item itemvalue="Application.HumanTest" />
-        <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.StudentTest" />
       </list>
     </recent_temporary>
   </component>
