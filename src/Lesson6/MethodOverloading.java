@@ -20,4 +20,8 @@ public class MethodOverloading {
 2. Return type может быть одинаковым или различаться.
 3. Access modifier может быть одинаковым или различаться.
 НО! методы, которые отличаются только по Return types и Access modifiers не являются overloading.
+
+Конструкторы также могуть быть overloading.
+Используйте this на первой строке в теле для вызова overloaded конструктора внутри конструктора.
+
 */
