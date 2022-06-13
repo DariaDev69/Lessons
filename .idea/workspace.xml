@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de3b14-a375-4189-b0c7-66f051d42e7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Lesson7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson5/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/HomeWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson6/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/MethodOverloading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
