@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de3b14-a375-4189-b0c7-66f051d42e7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson12/HomeWork/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson12/HomeWork/Task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson12/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson13/HomeWork/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson13/HomeWork/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson13/Lesson13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson13/Task.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Advanced" />
   </component>
-  <component name="RunManager" selected="Application.StudentTest">
+  <component name="RunManager" selected="Application.Month">
     <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson11.Homework.CarTest" />
       <module name="Lessons" />
@@ -61,19 +62,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForTest" />
-      <module name="Lessons" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HomeWorkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson8.HomeWork.HomeWorkTest" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson8.HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson13.HomeWork.Month" />
+      <module name="Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson13.HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson13.Student" />
+      <module name="Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFromLesson6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.TestFromLesson6" />
-      <module name="Lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Month" />
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.HomeWorkTest" />
-        <item itemvalue="Application.TestFromLesson6" />
-        <item itemvalue="Application.ForTest" />
       </list>
     </recent_temporary>
   </component>
