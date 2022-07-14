@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de3b14-a375-4189-b0c7-66f051d42e7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/Lesson14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/Task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson14/HomeWork/HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson14/HomeWork/Task.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Advanced" />
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.HomeWork">
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson14.HomeWork.HomeWork" />
+      <module name="Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson14.HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lesson14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson14.Lesson14" />
       <module name="Lessons" />
@@ -87,19 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson12.HomeWork.StudentTest" />
-      <module name="Lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson12.HomeWork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson14.Test" />
       <module name="Lessons" />
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Lesson14" />
         <item itemvalue="Application.Month" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.StudentTest" />
       </list>
     </recent_temporary>
   </component>
