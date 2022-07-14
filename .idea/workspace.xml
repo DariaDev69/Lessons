@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de3b14-a375-4189-b0c7-66f051d42e7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/HomeWork/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/HomeWork/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson15/Lesson15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson14/HomeWork/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson14/HomeWork/HomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson15/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson15/Task.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Advanced" />
   </component>
-  <component name="RunManager" selected="Application.HomeWork">
+  <component name="RunManager" selected="Application.Lesson15">
     <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson14.HomeWork.HomeWork" />
       <module name="Lessons" />
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson13.HomeWork.Month" />
+    <configuration name="Lesson15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson15.Lesson15" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson13.HomeWork.*" />
+          <option name="PATTERN" value="Lesson15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson13.Student" />
+    <configuration name="Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson13.HomeWork.Month" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson13.*" />
+          <option name="PATTERN" value="Lesson13.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson15" />
         <item itemvalue="Application.HomeWork" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Lesson14" />
         <item itemvalue="Application.Month" />
-        <item itemvalue="Application.Student" />
       </list>
     </recent_temporary>
   </component>
