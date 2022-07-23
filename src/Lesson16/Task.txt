@@ -32,5 +32,25 @@ String is immutable.
 
 Методы класса String.
 
+!!!Важно!!!
+Ни один из методов в классе String сам объект класса String не меняет, потому что объект класса String is immutable.
+
 1. length() -> in - метод никаких параметров не принимает, возвращает тип данных int и помогает найти нам длину.
 2. charAt(int index) -> char - (В переводе СИМВОЛ НА (значение индекса в параметрах)) - т.е. можно определить какой символ находится в массиве на определенном индексе.
+3. indexOf(char c) -> int
+   indexOf(String s) -> int
+   indexOf(char c, int fromIndex) -> int
+   indexOf(String s, int fromIndex) -> int
+   - метод позволяет узнать какой индекс у определенного char или String. fromIndex добавляется в параметры, когда хотим узнать индекс определенного char или String, но начиная после какого-то индекса,
+т.е. не с начала с 0, а, например, с 5.
+4. startsWith (String prefix) -> boolean - метод показывает начинается или не начинается строка с определенного String.
+   startsWith (String prefix, int from) -> boolean - то же самое, только проверка происходит не с 0го индекса, а с заданного.
+5. endsWith(String suffix) -> boolean - метод показывает заканчивается ли строка на определенный String.
+6. substring (int beginindex) -> String - метод показывающий кусочек строки String, начиная с индекса в параметрах.
+   substring (int beginindex, int endindex) -> String - метод показывающий кусочек строки String, начиная с индекса в параметрах, и заканчивая индексом в параметрах (невключительно, т.е. endindex -1).
+7. trim() -> String - метод убирает пробелы по бокам String, и при этом метод trim() создает новый объект String.
+8. replace (char oldChar, char newChar) -> String - метод для замены, и при этом создаёт новый объект String.
+   replace (String oldString, String newString) -> String
+!!ВАЖНО!!!
+Нельзя путать char и String.
+9. concat (String str) -> String - метод конкатенации, и при этом создаёт новый объект String.
