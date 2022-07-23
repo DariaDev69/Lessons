@@ -61,6 +61,12 @@ class Test2 {
         String s5 = "Privet,";
         String s6 = "drug";
         System.out.println(s5.concat(s6)); // Метод concat (String str).
+
+        String s7 = s1.toLowerCase(); // Метод toLowerCase ().
+        System.out.println(s7);
+
+        boolean s8 = s1.contains("T:2"); // Метод contains (String str).
+        System.out.println(s8);
     }
 }
 
@@ -71,5 +77,15 @@ class Test3 {
         String s = "ok";
 
         System.out.println(a+b+s); // output будет 11ok , т.к. первый + будет как сложение, а второй как знак конкатенации.
+        System.out.println("" + a + b +s); // исправить строку выше можно добавив пустые "".
+    }
+}
+
+class Test4 {
+    public static void main(String[] args) {
+        String s1 = "Hello world";
+        String s2 = "URA-a-a";
+        String s3 = s1.concat(s2).trim().replace("URA-a-a", "Ura").substring(6,10); // Это называется цепочкой методов.
+        System.out.println(s1.substring(s1.indexOf('W')));
     }
 }
