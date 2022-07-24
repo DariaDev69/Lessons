@@ -1,7 +1,7 @@
 package Lesson16;
 
 public class Lesson16 {}
-
+/*
 class Test1 { // тест методов класса String
     public static void main(String[] args) {
         String s1 = new String("abcdefgabcd");
@@ -38,7 +38,7 @@ class Test1 { // тест методов класса String
 class Test2 {
     public static void main(String[] args) {
         String s1 = new String("Privet");
-/*
+
         String s10 = s1.substring(3); // Метод substring (int beginindex), с помощью которого мы смотрим кусок строки String, начиная с 3-го индекса.
         System.out.println(s10);
 
@@ -50,7 +50,7 @@ class Test2 {
         System.out.println(s12);
 
         String s13 = s1.trim(); // Метод trim()
-        System.out.println(s13);*/
+        System.out.println(s13);
 
         String s14 = s1.replace('o', 'Z'); // Метод replace (char oldChar, char newChar).
         System.out.println(s14); // если ввести oldChar или  oldString, которого в String s1 не существует, тогда jvm росто выведет s14, который будет равен s1, без изменений.
@@ -83,9 +83,33 @@ class Test3 {
 
 class Test4 {
     public static void main(String[] args) {
-        String s1 = "Hello world";
+        String s1 = "Hello World";
         String s2 = "URA-a-a";
         String s3 = s1.concat(s2).trim().replace("URA-a-a", "Ura").substring(6,10); // Это называется цепочкой методов.
         System.out.println(s1.substring(s1.indexOf('W')));
+    }
+}
+
+*/
+class Test5 {
+    public static void main(String[] args) {
+        String s1 = "Чтоб мудро жизнь прожить,знать надобно немало,Два важных правила запомни для начала:" +
+                "Ты лучше голодай,чем что попало есть,И лучше будь один,чем вместе с кем попало.";
+        System.out.println(s1);
+        String s2 = s1.toUpperCase();
+        char c1;
+        char c2;
+
+        for (int i = 0; i < s1.length(); i++) {
+            c1 = s1.charAt(i);
+            c2 = s2.charAt(i);
+            if (c1 != ',' && c1 != ':' && c1 != ' ' && c1 != '.' && c1 == c2) {
+                System.out.println();
+                System.out.print(c1);
+                continue;
+            }
+            System.out.print(c1);
+        }
+        System.out.println();
     }
 }
