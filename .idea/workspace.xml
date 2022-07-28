@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de3b14-a375-4189-b0c7-66f051d42e7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson17/Homework/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson17/Homework/Task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson17/Lesson17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson17/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson18/Lesson18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson18/Lesson181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson18/Task.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson16/Homework/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson16/Homework/Homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson16/Lesson16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson16/Lesson16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson16/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson16/Task.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Advanced" />
   </component>
-  <component name="RunManager" selected="Application.Homework (1)">
+  <component name="RunManager" selected="Application.Lesson181">
     <configuration name="Homework (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson17.Homework.Homework" />
       <module name="Lessons" />
@@ -78,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson15.Lesson15" />
+    <configuration name="Lesson17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson17.Lesson17" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson15.*" />
+          <option name="PATTERN" value="Lesson17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson17.Lesson17" />
+    <configuration name="Lesson181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson18.Lesson181" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson17.*" />
+          <option name="PATTERN" value="Lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson181" />
         <item itemvalue="Application.Homework (1)" />
         <item itemvalue="Application.Lesson17" />
         <item itemvalue="Application.Homework" />
         <item itemvalue="Application.Test6" />
-        <item itemvalue="Application.Lesson15" />
       </list>
     </recent_temporary>
   </component>
