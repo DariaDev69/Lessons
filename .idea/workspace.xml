@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51de3b14-a375-4189-b0c7-66f051d42e7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson18/Lesson18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson18/Lesson181.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson18/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson18/Lesson182.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson18/Lesson183.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson18/Lesson184.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson18/Lesson185.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson16/Lesson16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson16/Lesson16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson16/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson16/Task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson17/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson17/Task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson18/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson18/Task.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,50 +50,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="IntelliLang.Advanced" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.Lesson181">
-    <configuration name="Homework (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson17.Homework.Homework" />
-      <module name="Lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson17.Homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson16.Homework.Homework" />
-      <module name="Lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson16.Homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson17.Lesson17" />
-      <module name="Lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson18.Lesson181" />
+  <component name="RunManager" selected="Application.Test7">
+    <configuration name="Lesson182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson18.Lesson182" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +66,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson16.Test6" />
+    <configuration name="Lesson183" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson18.Lesson183" />
+      <module name="Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson184" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson18.Lesson184" />
+      <module name="Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson185" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson18.Lesson185" />
+      <module name="Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson16.Test7" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson181" />
-        <item itemvalue="Application.Homework (1)" />
-        <item itemvalue="Application.Lesson17" />
-        <item itemvalue="Application.Homework" />
-        <item itemvalue="Application.Test6" />
+        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Lesson185" />
+        <item itemvalue="Application.Lesson184" />
+        <item itemvalue="Application.Lesson183" />
+        <item itemvalue="Application.Lesson182" />
       </list>
     </recent_temporary>
   </component>

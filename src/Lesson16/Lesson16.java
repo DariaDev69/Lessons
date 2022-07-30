@@ -100,3 +100,18 @@ class Test6 {
         System.out.println(s4.strip());
     }
 }
+    class Test7 {
+        public static void main(String[] args) {
+       char [] array7 = {'p', 'r', 'i', 'v', 'e', 't'};
+       //String s = new String (array7);
+        StringBuilder sb = new StringBuilder("Hello World!");
+        //sb.append(array7,2,3); // пример метода append (array,int starIndex, int amoundChar) для класса StringBuilder.
+            sb.insert(2,array7,1,3);
+            System.out.println(sb);
+    }
+}
+
+
+
+
+
